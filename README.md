@@ -20,4 +20,4 @@ C 2018 по 2019 занимался репетиторством препода�
 Работа :
 С 29.07.2022 прошёл обучение на программе Hactimate и стал работать индивидуальным предпринимателем (драфтером) , занимаюсь подготовкой и проверкой планов  и чертежей.
 в компании 45Info GmbH.
-<image src="(https://sun9-43.userapi.com/impg/QJJnHxU-jVclU-PiKibt68S1w388eJh0vg9NKw/irueIFVOG7E.jpg?size=1201x1600&quality=95&sign=a2e4fa65e0e22893b4738adcd21db54e&type=album)" alt="моё последнее фото">
+<image src="([https://sun9-43.userapi.com/impg/QJJnHxU-jVclU-PiKibt68S1w388eJh0vg9NKw/irueIFVOG7E.jpg?size=1201x1600&quality=95&sign=a2e4fa65e0e22893b4738adcd21db54e&type=album](https://sun9-43.userapi.com/impg/QJJnHxU-jVclU-PiKibt68S1w388eJh0vg9NKw/irueIFVOG7E.jpg?size=1201x1600&quality=95&sign=a2e4fa65e0e22893b4738adcd21db54e&type=album))" alt="моё последнее фото">
